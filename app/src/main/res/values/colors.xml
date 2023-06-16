@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red_1">#b71c1c</color>
+
+    <color name="_bg__analysis_detail_ek2_color">#FFFFFF</color>
+    <color name="rectangle_141_color">#FF4D26</color>
+    <color name="analysis_detail_ek3_color">#000000</color>
+    <color name="image_result_color">#D9D9D9</color>
+
+    <color name="_bg__upload_photo_ek2_color">#FFFFFF</color>
+    <color name="allopet_color">#000000</color>
+    <color name="rectangle_4204_color">#FF4A10</color>
+    <color name="rectangle_142_color">#FF4D26</color>
+    <color name="rectangle_143_color">#81348E</color>
+
+    <color name="footerBackground">#FF4E27</color>
+
+    <color name="_bg__home_ek2_color">#FFFFFF</color>
+    <color name="rectangle_139_color">#E8E8E8</color>
+    <color name="windah_basudara_color">#303030</color>
+    <color name="woof_woof__color">#000000</color>
+    <color name="what_are_you_looking_for__color">#757575</color>
+</resources>
